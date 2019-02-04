@@ -1,6 +1,10 @@
 class demo()
 {
- withdram()
+balance check()
+{
+{
+
+ withdraw()
 {
  -------
   ----
