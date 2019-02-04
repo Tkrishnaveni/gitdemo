@@ -1,8 +1,5 @@
 class demo()
 {
-balance check()
-{
-{
 
  withdraw()
 {
