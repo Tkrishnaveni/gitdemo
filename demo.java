@@ -1,13 +1,16 @@
-subtraction()
+class demo()
 {
+ withdram()
+{
+ -------
+  ----
+}
+deposit()
+{
+
 
 }
-addition()
-{
 
+p.s.void main()
 
-}
-class
-{
-p.s.v.m()
 }
